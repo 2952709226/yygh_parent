@@ -1,4 +1,4 @@
-package com.atguigu.yygh.common.config;
+package com.jmit.yygh.common.config;
 
 
 import com.baomidou.mybatisplus.extension.plugins.OptimisticLockerInterceptor;
