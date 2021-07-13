@@ -7,7 +7,7 @@
         <module>common</module>
         <module>model</module>
         <module>service</module>
-    </modules>
+    </modules> <!-- 测试GIT  -->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
