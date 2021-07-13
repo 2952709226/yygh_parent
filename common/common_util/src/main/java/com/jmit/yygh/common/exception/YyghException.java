@@ -28,7 +28,7 @@ public class YyghException extends RuntimeException {
     }
 
     /**
-     * 接收枚举类型对象
+     * 接收枚举类型对象/
      * @param resultCodeEnum
      */
     public YyghException(ResultCodeEnum resultCodeEnum) {

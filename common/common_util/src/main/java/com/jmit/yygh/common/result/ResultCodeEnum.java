@@ -3,7 +3,7 @@ package com.jmit.yygh.common.result;
 import lombok.Getter;
 
 /**
- * 统一返回结果状态信息类
+ * 统一返回结果状态信息类/
  */
 @Getter
 public enum ResultCodeEnum {

@@ -12,7 +12,7 @@ public class JwtHelper {
     //签名秘钥
     private static String tokenSignKey = "123456";
 
-    //根据参数生成token
+    //根据参数生成token/
     public static String createToken(Long userId, String userName) {
         String token = Jwts.builder()
                 .setSubject("YYGH-USER")

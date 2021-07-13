@@ -17,7 +17,7 @@ public class Result<T> {
     @ApiModelProperty(value = "返回消息")
     private String message;
 
-    @ApiModelProperty(value = "返回数据")
+    @ApiModelProperty(value = "返回数据/")
     private T data;
 
     public Result(){}
