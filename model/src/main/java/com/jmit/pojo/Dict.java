@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class Dict {
     /**
-     * id
+     *  id
      */
     private Long id;
 
